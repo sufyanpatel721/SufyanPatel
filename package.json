@@ -1,37 +1,37 @@
 {
-  "title": "I'm Md.Ghulam Azad Ansari",
+  "title": "I'm Sufyan Patel",
   "name": "ghulam_portfolio",
   "version": "1.0.0",
-  "description": "Md.Ghulam Azad Ansari Portfolio",
+  "description": "Sufyan Patel Portfolio",
   "main": "index.js",
   "scripts": {
     "compile:sass": "node-sass assets/sass/main.scss assets/css/main.css -w"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MdGhulamAzadAnsari/MdGhulamAzadAnsari.github.io.git"
+    "url": "git+https://github.com/sufyanpatel721/SufyanPatel1"
   },
   "keywords": [
-    "Md.Ghulam",
-    "Azad",
-    "Ansari",
-    "Md",
-    "Ghulam",
-    "Azad",
-    "Ansari",
-    "Ghulam",
-    "Azad",
-    "Ansari",
+    "Sufyan Patel",
+    "Patel",
+    "Sufyan",
+    "Siraj",
+    "Sufyan",
+    "Siraj",
+    "Sufyan",
+    "Sufyan",
+    "Siraj",
+    "Patel",
     "portfolio",
     "developer",
-    "Ghulam"
+    "Sufyan"
   ],
-  "author": "Md.Ghulam Azad Ansari",
+  "author": "Sufyan Patel",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/MdGhulamAzadAnsari/MdGhulamAzadAnsari.github.io/issues"
+    "url": "https://github.com/sufyanpatel721/SufyanPatel/issues"
   },
-  "homepage": "https://github.com/MdGhulamAzadAnsari/MdGhulamAzadAnsari.github.io#readme",
+  "homepage": "https://github.com/sufyanpatel721/SufyanPatel/blob/main/README.md",
   "devDependencies": {
     "node-sass": "^4.13.1"
   },
